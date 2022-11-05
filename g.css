@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+
+.heading{
+    background: rgba(192, 49, 49, 0.7) url('../img/background.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.text{
+    background-color: brown;
+    width: 50%;
+    text-align: left;
+    padding-left: 30px;
+    border: 30px;
+}
